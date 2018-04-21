@@ -7,6 +7,7 @@ output:
     theme: spacelab
     df_print: paged
 ---
+Link to the assignment: https://beanumber.github.io/sds192/hw/hw_babynames.html
 
 ```{r , echo = FALSE , message = FALSE , warning = FALSE}
 library(babynames)
